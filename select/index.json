@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "lithium flower",
+  "base_artist": "Scott Matthew",
+  "createdAt": "2025-12-25T07:16:47.377278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lithium Flower",
+      "artist": "Scott Matthew",
+      "has_synced": true,
+      "path": "select/01_Lithium_Flower_Scott_Matthew.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lithium Flower",
+      "artist": "Scott Matthew",
+      "has_synced": true,
+      "path": "select/02_Lithium_Flower_Scott_Matthew.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lithium Flower (Closing theme)",
+      "artist": "Scott Matthew",
+      "has_synced": true,
+      "path": "select/03_Lithium_Flower_(Closing_theme)_Scott_Matthew.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "lithium flower",
+      "artist": "Matthew, Scott",
+      "has_synced": true,
+      "path": "select/04_lithium_flower_Matthew,_Scott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "lithium flower",
+      "artist": "Scott Matthew",
+      "has_synced": true,
+      "path": "select/05_lithium_flower_Scott_Matthew.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "lithium flower",
+      "artist": "Scott Matthew",
+      "has_synced": true,
+      "path": "select/06_lithium_flower_Scott_Matthew.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/07_Lithium_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/08_Lithium_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/09_Lithium_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/10_Lithium_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/11_Lithium_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lithium - Live & Loud",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/12_Lithium_-_Live_&_Loud_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lithium (Remastered)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/13_Lithium_(Remastered)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lithium (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/14_Lithium_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lithium (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/15_Lithium_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/16_Lithium_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "The Bad Plus",
+      "has_synced": true,
+      "path": "select/17_Lithium_The_Bad_Plus.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/18_Lithium_BONES.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/19_Lithium_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Lithium and a Lover",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/20_Lithium_and_a_Lover_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Lithium",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/21_Lithium_Evanescence.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lithium flower",
+      "artist": "Scott Matthew",
+      "has_synced": false,
+      "path": "select/pl_01_lithium_flower_Scott_Matthew.txt"
+    }
+  ]
+}
